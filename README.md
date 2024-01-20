@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img height="200" src="https://github.com/Vitalii-Kh95/vitalii-kh95/blob/main/cat-6937.gif"  />
+</div>
+
 <!--
 **Vitalii-Kh95/vitalii-kh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
