@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img height="200" src="https://github.com/Vitalii-Kh95/vitalii-kh95/blob/main/cat-6937.gif"  />
+  <img height="200" src="https://github.com/Vitalii-Kh95/vitalii-kh95/blob/main/wolf-862_256.gif"  />
 </div>
 
 <!--
